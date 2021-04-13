@@ -1,6 +1,6 @@
 ### Welcome to vault security app!
 
- This app will allow you to track who is inside the vault and how long he has been there. Tired of your employees stealing from your vault? Do not hesitate, isntall htis app immediately!
+ This app will allow you to track who is inside the vault and how long he has been there. Tired of your employees stealing from your vault? Do not hesitate, install this app immediately!
 
 ### Installation
 
