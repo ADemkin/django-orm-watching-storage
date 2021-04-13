@@ -13,9 +13,9 @@ python -m venv venv && . ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Database credentials & security key
+### Database & security credentials
 
-Put your database credentials and secret key into `.env` file, like this:
+Put your database & security credentials into `.env` file, like this:
 
 ```
 DB_HOST='somehost'
@@ -24,6 +24,7 @@ DB_NAME='db-name'
 DB_USER='db-user'
 DB_PASSWORD='db-password'
 SECRET_KEY='your app secret key'
+ALLOWED_HOSTS='[::1],localhost'
 ```
 
 ### Debug mode
