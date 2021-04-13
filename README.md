@@ -27,9 +27,9 @@ SECRET_KEY='your app secret key'
 ```
 
 ### Debug mode
-To enable developoer mode add `DEBUG` key with any value to `.env` or use it ad environment variable when launching app.
+To enable developoer mode add `DEBUG` key with `True` or `true` or `TRUE` value to `.env` or use it ad environment variable when launching app.
 ```
-DEBUG=1
+DEBUG='True'
 ```
 
 ### Run app!
